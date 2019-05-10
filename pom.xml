@@ -8,7 +8,7 @@
 	<name>filecloud</name>
 
 	<properties>
-		<project.spring.version>4.1.6.RELEASE</project.spring.version>
+		<project.spring.version>4.3.17.RELEASE</project.spring.version>
 		<project.httpcomponents.version>4.3.5</project.httpcomponents.version>
 		<project.newroad.group>com.newroad</project.newroad.group>
 		<project.newroad.version>0.0.1.RELEASE</project.newroad.version>
